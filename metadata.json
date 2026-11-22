@@ -1,0 +1,8 @@
+{
+  "name": "زرپوز — پلتفرم خرید و فروش طلا و پایانه پوز",
+  "description": "پلتفرم جامع آنلاین خرید و فروش طلای آب‌شده، سکه و زیورآلات بین طلافروشی‌ها و کاربران عادی با قابلیت اجرا روی دستگاه پوز اندرویدی (WebView).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
